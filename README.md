@@ -7,7 +7,7 @@ The application uses Google's Gemini AI to understand visual content, describe i
 ## 🚀 Live Demo
 
 🔗 **Live Application:**  
-[https://YOUR-STREAMLIT-APP-URL](https://visionmate-ai-gjlneafcfqshnhe3bsz9na.streamlit.app/)
+(https://visionmate-ai-gjlneafcfqshnhe3bsz9na.streamlit.app/)
 
 ## 📌 Features
 
